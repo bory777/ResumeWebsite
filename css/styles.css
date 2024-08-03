@@ -10956,6 +10956,9 @@ section.resume-section {
 section.resume-section .resume-section-content {
   width: 100%;
 }
+.interests-p {
+  margin-bottom: 0;
+}
 
 @media (min-width: 768px) {
   section.resume-section {

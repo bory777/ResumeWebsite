@@ -1,0 +1,79 @@
+[
+    {
+    "id": 1,
+    "title": "Guess-the-number-game",
+    "summary": "pythonで書かれたプログラムです。最小値、最大値を入力してもらいその範囲での乱数を推測します。",
+    "source": "https://github.com/bory777/Guess-the-number-game",
+    "thumbnail": "https://cdn.pixabay.com/photo/2018/04/11/03/13/food-3309418_1280.jpg"
+  },
+    {
+    "id": 2,
+    "title": "file_manipulator_program",
+    "summary": "pythonで書かれたプログラムです。ファイルを受け取り、内容を指定された処理を行います。",
+    "source": "https://github.com/bory777/file_manipulator_program",
+    "thumbnail": "https://cdn.pixabay.com/photo/2018/04/11/03/13/food-3309418_1280.jpg"
+  },
+    {
+    "id": 3,
+    "title": "Local-Chat-Messenger",
+    "summary": "pythonで書かれたプログラムです。UNIXドメインソケットを使用してUDPを介してメッセージを送受信するシンプルなチャットアプリケーションです。Fakerライブラリを使用してランダムな文字列を生成し、サーバーからクライアントに送信します。",
+    "source": "https://github.com/bory777/Local-Chat-Messenger",
+    "thumbnail": "https://cdn.pixabay.com/photo/2018/04/11/03/13/food-3309418_1280.jpg"
+  },
+    {
+    "id": 4,
+    "title": "Remote-Procedure-Call",
+    "summary": "Unixドメインソケットを使用してRPCを実装するクライアント・サーバーシステムです。クライアントはNode.jsで、サーバーはPythonで書かれています。",
+    "source": "https://github.com/bory777/Remote-Procedure-Call",
+    "thumbnail": "https://cdn.pixabay.com/photo/2018/04/11/03/13/food-3309418_1280.jpg"
+  },
+    {
+    "id": 5,
+    "title": "online-chat-messenger",
+    "summary": "pythonで書かれたプログラムです。TCPとUDPを使用したチャットサーバーおよびクライアントの実装です。ユーザーはサーバーに接続してチャットルームを作成し、そのチャットルームに参加してメッセージを交換することができます。",
+    "source": "https://github.com/bory777/online-chat-messenger",
+    "thumbnail": "https://cdn.pixabay.com/photo/2018/04/11/03/13/food-3309418_1280.jpg"
+  },
+    {
+    "id": 6,
+    "title": "Computer-Builder",
+    "summary": "Html,CSS,JSで書かれています。ユーザーがカスタムPCを構築するためのインタラクティブなウェブアプリケーションです。ユーザーはCPU、GPU、RAM、ストレージの各コンポーネントを選択し、PCのゲーム性能および仕事性能のスコアを表示することができます。",
+    "source": "https://github.com/bory777/Computer-Builder",
+    "thumbnail": "https://cdn.pixabay.com/photo/2018/04/11/03/13/food-3309418_1280.jpg"
+  },
+    {
+    "id": 7,
+    "title": "markdown_to_HTML_converter",
+    "summary": "MarkdownファイルをHTMLファイルに変換するPythonスクリプトです。コマンドライン引数としてMarkdownファイルとHTMLファイルのパスを指定し、Markdownの内容をHTMLに変換して指定されたHTMLファイルに書き込みます。",
+    "source": "https://github.com/bory777/markdown_to_HTML_converter",
+    "thumbnail": "https://cdn.pixabay.com/photo/2018/04/11/03/13/food-3309418_1280.jpg"
+  },
+    {
+    "id": 8,
+    "title": "VideoCompressorService",
+    "summary": "クライアントからサーバにMP4ファイルをアップロードし、指定された操作（圧縮、解像度変更、アスペクト比変更、オーディオ抽出、GIF作成、WEBM作成）を実行するPythonプログラムです。",
+    "source": "https://github.com/bory777/VideoCompressorService",
+    "thumbnail": "https://cdn.pixabay.com/photo/2018/04/11/03/13/food-3309418_1280.jpg"
+  },
+    {
+    "id": 9,
+    "title": "FoodServiceSimulation",
+    "summary": "レストランでの注文シミュレーションを行うPHPプログラムです。PHP学習用です。",
+    "source": "https://github.com/bory777/FoodServiceSimulation",
+    "thumbnail": "https://cdn.pixabay.com/photo/2018/04/11/03/13/food-3309418_1280.jpg"
+  },
+    {
+    "id": 10,
+    "title": "ResumeWebsite",
+    "summary": "レジュメサイトです。JSONをレンダリングして動的に作成する学習目的で作成しました。ポートフォリオサイトでもあります。",
+    "source": "https://github.com/bory777/ResumeWebsite",
+    "thumbnail": "https://cdn.pixabay.com/photo/2018/04/11/03/13/food-3309418_1280.jpg"
+  },
+    {
+    "id": 11,
+    "title": "【チーム開発】Tic Tac Toe",
+    "summary": "HTML,CSS,JS,TSで書かれています。ノーマルモード、アルティメットモード、CPU対戦が可能です。LocalStorage機能も実装しています。",
+    "source": "https://github.com/Test-Team-B/work-space",
+    "thumbnail": "https://cdn.pixabay.com/photo/2018/04/11/03/13/food-3309418_1280.jpg"
+  }
+]
