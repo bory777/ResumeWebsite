@@ -22,7 +22,7 @@ function generateProjectCard(card) {
                     <h5 class="card-title">${card.title}</h5>
                     <p class="card-text">${card.summary}</p>
                 </div>
-                <p><a href="#${card.source}" class="link-success link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">GitHub link</a></p>
+                <p><a href="${card.source}" class="link-success link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">GitHub link</a></p>
             </div>
         </div>
     `;
